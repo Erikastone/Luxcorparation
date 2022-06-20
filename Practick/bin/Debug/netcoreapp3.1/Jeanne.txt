@@ -1,0 +1,38 @@
+Passive = Jeanne gets 8% movement speed, and gives this bonus to all allied champions 
+           who move in her direction
+          Jeanne's auto attacks and Howling Whirlwind Howling Whirlwind cause additional Magic damage.
+          png magic damage equal to 25/35% (depends on the level) of her additional movement speed..
+Qskils = ACTIVATION: Jeanne summons a tornado under her, which charges for 3 seconds. Its range, speed,
+         damage and duration of Airborne icon.png toss increases for every half second of charging.
+        Minimal damage:
+       60 / 85 / 110 / 135 / 160 (+ 35% skill powers)
+       Increase damage in sec.:"
+       15 / 20 / 25 / 30 / 35 (+ 10% skill powers)
+      At the end of charging or when the skill is reactivated, the tornado flies in the chosen direction,
+       inflicting magical damage to all affected opponents and Airborne icon.png tossing them for 0.5 − 1.25
+       (depends on the charging time) seconds.
+Wslils = PASSIVE: While the West Wind is not on recharge, Jeanne is accompanied by an air elemental, 
+         which gives her Ghost.png ghostliness and Movement speed icon.png additional movement speed.
+        Additional speed:
+        6 / 7 / 8 / 9 / 10% (+ 0.02% skill powers)
+        ACTIVATION: Jeanne directs the elemental at the selected enemy, which deals him magical damage and Slow icon.png slows down by 2 seconds.      
+       Magic Damage:
+       55 / 85 / 115 / 145 / 175 (+ 50% skill strength) (+ 25 / 35% (depends on the level) movement speed
+       Slowing down:
+       24 / 28 / 32 / 36 / 40% (+ 0.06% skill powers)
+Eskils = ACTIVATION: Jeanne surrounds the chosen ally, Turret icon.png Tower or herself Hybrid resistances 
+       icon.png shield for 5 seconds, which begins to slowly deplete after 0.75 seconds of existence. 
+       Shield Strength:
+        80 / 115 / 150 / 185 / 220 (+ 70% skill powers)
+        While the shield is holding, the protected one gets an Attack damage icon.png add. attack power.
+        Attack Power Bonus:
+        10 / 17.5 / 25 / 32.5 / 40 (+ 10% skill powers)
+         If Jeanne's Slow icon.png skill slows down or Airborne icon.png throws at least one enemy Champion 
+        icon.png champion, the skill's cooldown is reduced by 20%.
+        The murders committed by the protected tower are attributed to Jeanne.
+Rskils = ACTIVATION: Jeanne maintains the skill for 3 seconds, Airborne icon.png scattering all enemies nearby at
+          a distance of 875 units from herself in 0.5 seconds, depending on their proximity.
+          During maintenance, a healing area appears around her, which Heal power icon.png heals allies every 0.5 seconds.
+           Healing at a Time:"
+           50 / 75 / 100 (+ 25% skill powers)
+           An attempt to move will end the action of the skill ahead of schedule.

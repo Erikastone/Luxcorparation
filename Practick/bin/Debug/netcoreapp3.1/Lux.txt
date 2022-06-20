@@ -1,0 +1,23 @@
+Passive = "When dealing damage to enemies with skills, Lux \n " +
+                      "marks them with an Illumination mark for 6 seconds. \n" +
+                      "Auto attacks and the Last spark The last spark absorb the mark, \n" +
+                      "causing an additional 20 − 190 (depending on the level) (+ 20% of\n the power of skills)" +
+                      " in the form of Magic damage.png magic damage.";
+Qskils = "ACTIVATION: Lux releases a sphere of light in the chosen direction, \nwhich deals magical" +
+                     " damage to the first two hit opponents and Root icon.png immobilizes \nthem for 2 seconds.Damage:" +
+                     "80 / 120 / 160 / 200 / 240(+60 % skill powers) ";
+Wskils = "ACTIVATION: Lux throws his wand in the chosen direction. After reaching \nthe maximum range, he returns to her." +
+                    "\nOn the way forward, the wand imposes Hybrid resistances icon.png shield on\n Lux and any allied champion it touches for 2.5 seconds." +
+                       "Shield Strength:45 / 65 / 85 / 105 / 125(+35 % skill powers)" +
+                     "\nOn the way back, the wand will impose a shield of the same strength.The volume\n of the shield is summed up, and its lifetime is updated." +
+                     "Maximum strength:" +
+                      "\n90 / 130 / 170 / 210 / 250(+70 % skill powers)";
+Eskils = "ACTIVATION: Lux releases a light anomaly into the selected area, which\n Slow icon.png slows down all enemies who get into the zone and gives Sight icon." +
+                     "\npng an overview of the area for 5 seconds." +
+                     "\nSlowing down: +25 / 30 / 35 / 40 / 45 %" +
+                     "After this period or when the skill is reactivated, the singularity \nexplodes and deals magical damage to all opponents in the zone." +
+                     "\nMagic Damage: 70 / 120 / 170 / 220 / 270(+70 % skill powers)" +
+                      "\nWhen an enemy leaves the zone, the slowdown lasts for another 1 second.";
+Rskils = "ACTIVATION: Lux accumulates energy for 1 second, then releases a powerful beam \nof light in the chosen direction, which deals magical damage to all " +
+                "\nenemies on the way and Sight icon.png reveals the area around itself." +
+                   "Magic Damage: 300 / 400 / 500(+100 % skill powers)";

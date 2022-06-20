@@ -1,0 +1,14 @@
+C:\С шарп уроки\Practick\bin\Debug\netcoreapp3.1\Practick.exe
+C:\С шарп уроки\Practick\bin\Debug\netcoreapp3.1\Practick.deps.json
+C:\С шарп уроки\Practick\bin\Debug\netcoreapp3.1\Practick.runtimeconfig.json
+C:\С шарп уроки\Practick\bin\Debug\netcoreapp3.1\Practick.runtimeconfig.dev.json
+C:\С шарп уроки\Practick\bin\Debug\netcoreapp3.1\Practick.dll
+C:\С шарп уроки\Practick\bin\Debug\netcoreapp3.1\Practick.pdb
+C:\С шарп уроки\Practick\obj\Debug\netcoreapp3.1\Practick.csproj.AssemblyReference.cache
+C:\С шарп уроки\Practick\obj\Debug\netcoreapp3.1\Practick.GeneratedMSBuildEditorConfig.editorconfig
+C:\С шарп уроки\Practick\obj\Debug\netcoreapp3.1\Practick.AssemblyInfoInputs.cache
+C:\С шарп уроки\Practick\obj\Debug\netcoreapp3.1\Practick.AssemblyInfo.cs
+C:\С шарп уроки\Practick\obj\Debug\netcoreapp3.1\Practick.csproj.CoreCompileInputs.cache
+C:\С шарп уроки\Practick\obj\Debug\netcoreapp3.1\Practick.dll
+C:\С шарп уроки\Practick\obj\Debug\netcoreapp3.1\Practick.pdb
+C:\С шарп уроки\Practick\obj\Debug\netcoreapp3.1\Practick.genruntimeconfig.cache
